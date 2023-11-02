@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SI Hub</string>
+    <string name="error_message1">There was an error while loading SI Hub content. Please try again later</string>
+</resources>
