@@ -4,7 +4,7 @@ YouTube front-end designed for consuming self-improvement content
 If you are tired of doomscrolling through YouTube consuming meaningless content and want to see useful, educational content about science, psychology, fitness, finance and overall wellbeing then SIHub comes for your rescue.
 
 <b>This is a mobile app version of a SIHub project
-<br>To see desktop website check [SIHub-mobile](https://github.com/PineconeStudioG/SIHub-web) repository
+<br>To see desktop website check [SIHub-web](https://github.com/PineconeStudioG/SIHub-web) repository
 <br>Full project consists of repositories: [SIHub-web](https://github.com/PineconeStudioG/SIHub-web), [SIHub-web_mobile](https://github.com/PineconeStudioG/SIHub-web_mobile), [SIHub-mobile](https://github.com/PineconeStudioG/SIHub-mobile)</b>
 
 # How it works
