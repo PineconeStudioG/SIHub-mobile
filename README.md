@@ -5,7 +5,7 @@ If you are tired of doomscrolling through YouTube consuming meaningless content 
 
 <b>This is a mobile app version of a SIHub project
 <br>To see desktop website check [SIHub-web](https://github.com/PineconeStudioG/SIHub-web) repository
-<br>Full project consists of repositories: [SIHub-web](https://github.com/PineconeStudioG/SIHub-web), [SIHub-web_mobile](https://github.com/PineconeStudioG/SIHub-web_mobile), [SIHub-mobile](https://github.com/PineconeStudioG/SIHub-mobile)</b>
+<br>Full project consists of repositories: [SIHub-web](https://github.com/PineconeStudioG/SIHub-web) and [SIHub-mobile](https://github.com/PineconeStudioG/SIHub-mobile)</b>
 
 # How it works
 SIHub is not an independent platform - it takes selected YouTube channels and their videos using YouTube API and video embed feature. Then it displays them in non-distracting way so that you can focus on the video itself rather than scroll through comments or list of proposed videos.
