@@ -11,7 +11,7 @@ If you are tired of doomscrolling through YouTube consuming meaningless content 
 SIHub is not an independent platform - it takes selected YouTube channels and their videos using YouTube API and video embed feature. Then it displays them in non-distracting way so that you can focus on the video itself rather than scroll through comments or list of proposed videos.
 
 # Technologies
-This project was developed using Kotlin, Android SDK & Android Studio 2022.1.1 and also HTML, CSS, JavaScript, PHP
+This project was developed using Kotlin, Android SDK & Android Studio 2022.1.1 and also HTML, CSS, JavaScript, PHP (see [SIHub-web](https://github.com/PineconeStudioG/SIHub-web) for web side of the code)
 # Roadmap
 Project is not yet finished! It will be continuously developed and improved<br><br>
 Minor fixes to do:
